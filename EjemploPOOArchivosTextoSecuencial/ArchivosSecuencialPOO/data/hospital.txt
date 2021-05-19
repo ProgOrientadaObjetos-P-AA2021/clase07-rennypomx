@@ -1,0 +1,3 @@
+Clinica Mogrovejo;20;2013,16
+Clinica San Jose;30;2011,46
+Clínica San Agustin;40;2014,79
